@@ -64,7 +64,7 @@ be validated per-dataset, not assumed from a previous project.
 git clone https://github.com/KoushalVaswani/CodeAlpha_DiseasePrediction.git
 cd CodeAlpha_DiseasePrediction
 pip install -r requirements.txt
-jupyter notebook notebooks/01_heart_disease_eda_baseline.ipynb
+jupyter notebook notebooks/Heart_Disease_EDA_Baseline.ipynb
 ```
 
 ---
